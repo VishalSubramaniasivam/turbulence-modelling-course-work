@@ -15,7 +15,7 @@ ProblemStatment1.pdf<br />
 ProblemStatment2.pdf<br /><br />
 The two aformentioned PDF files contain detailed descriptions of the problem statment of the two projects. 
 
-# #Results Report
+## Results Report
 Report1.pdf<br />
 Report2.pdf<br /><br />
 The two aformentioned PDF files contain detailed results and analysis of the two projects.    
